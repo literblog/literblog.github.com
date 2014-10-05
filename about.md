@@ -10,7 +10,16 @@ group: navigation
 
 
 
-`#### **住在一个岛上，如果你偶然记起关于桃花岛黄药师的传说，记得划船来找我。**`
+#### 记录你看到的世界  the apple of your eyes
 
+#### 诗篇里说 Keep me as the **apple of the eye**
 
-`#### **你往何处去，我在这儿等你。**`
+#### Hide me under the shadow of thy wings
+
+#### 愿我心爱的人找到**珍惜之眼**
+
+#### 愿你们找到一生的庇护
+
+#### 愿你们平安
+
+#### 
