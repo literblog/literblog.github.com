@@ -9,26 +9,24 @@ markdown: kramdown
 
 # The title and tagline is showed on homepage
 #
-title :  Simpleyyt 
-tagline: Yitao's Blog
+title :  Tuzhi
+tagline: 莹莹青碧
 
 # Information about author
 #
 author :
-  name : Yitao Yao
+  name : Huang Yi
   
 # Information for contacts showed at on the footer
 #
 contact :
-  e-mail : mailto:simpleyyt@gmail.com
-  Github : https://github.com/Simpleyyt
-  WeiBo : http://www.weibo.com/u/1836017133
-  Google+ : https://plus.google.com/103860633659538888207?rel=author
+  e-mail : mailto:heying1991@gmail.com
+  Github : https://github.com/Huangtuzhi
   
 # Links showed on the footer
 #
 links :
-  Yitao's Blog : http://simpleyyt.github.io/
+  Tuzhi's Blog : http://blog.tuzhii.com
 
 # The search engine. Only support google custom search engine.
 #
@@ -68,7 +66,7 @@ auto_loadmore : true
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://simpleyyt.github.io
+production_url : http://blog.tuzhii.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
