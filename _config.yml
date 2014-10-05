@@ -123,11 +123,11 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : duoshuo
+    provider : disqus
     duoshuo :
       short_name : huangtuzhi
     disqus :
-      short_name : simpleyyt
+      short_name : huangtuzhi
     livefyre :
       site_id : 123
     intensedebate :
