@@ -10,16 +10,20 @@ group: navigation
 
 
 
-#### 记录你看到的世界  the apple of your eyes
+#### 记录你看到的世界  the apple of your eyes  <br />
 
-#### 诗篇里说 Keep me as the **apple of the eye**
 
-#### Hide me under the shadow of thy wings
+#### 诗篇里说 Keep me as the **apple of the eye** <br />
 
-#### 愿我心爱的人找到**珍惜之眼**
 
-#### 愿你们找到一生的庇护
+#### Hide me under the shadow of thy wings <br />
 
-#### 愿你们平安
 
-#### 
+#### 愿我心爱的人找到**珍惜之眼** <br />
+
+
+#### 愿你们找到一生的庇护 <br />
+
+
+#### 愿你们平安 <br />
+
