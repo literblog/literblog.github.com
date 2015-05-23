@@ -5,11 +5,11 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
-markdown: kramdown
+markdown: rdiscount
 
 # The title and tagline is showed on homepage
 #
-title :  莹莹青碧
+title :  青碧
 tagline: 
 
 # Information about author
