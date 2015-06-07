@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               逸
 tagline:             '  When lotus lush'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         '如果你偶然记得关于桃花岛黄药师的传说，记得划船来找我。你往何处去，我在这儿等你。'
 url:                 http://blog.tuzhii.com
 baseurl:             'http://blog.tuzhii.com'
 paginate:            5
