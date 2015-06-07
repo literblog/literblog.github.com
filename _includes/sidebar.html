@@ -5,13 +5,22 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
 
+  {% if site.author_thumbnail && site.author_thumbnail != '' %}
+  <img
+    src="{{ site.author_thumbnail | prepend: site.baseurl | prepend: site.url }}"
+    alt="{{ site.title }}" />
+  {% endif %}
+
+  <div class="sidebar-info">
+      <p>
+          你往何处去，我在这儿等你
+      </p>
+  </div>
+
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
-    {% comment %}
-      The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
-    {% endcomment %}
+
 
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
@@ -24,9 +33,18 @@
 
   </nav>
 
-  <div class="sidebar-item">
-    <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
-    </p>
+  <a class="sidebar-nav-item"
+      href="http://yayua.github.io"
+      target="_blank">
+      TecBlog
+  </a>
+
+  <div class="sidebar-info small">
+     <p>
+       Copyright &copy; Huang Yi - {{ site.time | date: '%Y' }}.
+       Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
+     </p>
   </div>
+  
 </div>
+
