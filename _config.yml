@@ -6,8 +6,8 @@ relative_permalinks: true
 
 # Setup
 title:               逸
-tagline:             '  When lotus lush'
-description:         '如果你偶然记得关于桃花岛黄药师的传说，记得划船来找我。你往何处去，我在这儿等你。'
+tagline:             '    When lotus lush'
+description:         '如果你偶然记起关于桃花岛黄药师的传说，记得划船来找我。你往何处去，我在这儿等你。'
 url:                 http://blog.tuzhii.com
 baseurl:             'http://blog.tuzhii.com'
 paginate:            5
