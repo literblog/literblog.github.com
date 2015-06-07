@@ -1,8 +1,7 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: false
+permalink: /:categories/:year/:month/:day/:title 
 
 # Setup
 title:               Lanyon
