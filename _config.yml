@@ -5,8 +5,8 @@ permalink: /:categories/:year/:month/:day/:title
 relative_permalinks: true
 
 # Setup
-title:               桃花岛
-tagline:             'A Jekyll theme'
+title:               逸
+tagline:             'When lotus lush'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 http://blog.tuzhii.com
 baseurl:             'http://blog.tuzhii.com'
@@ -14,9 +14,9 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Huang Yi
+  url:               https://blog.tuzhii.com
+  email:             ituzhi@163.com
 
 # Custom vars
 version:             1.0.0
