@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: 世界
 ---
-
-##世界
 
 记录你看到的世界  the apple of your eyes 
 
@@ -11,11 +9,12 @@ title: About
 
 Hide me under the shadow of thy wings
 
-愿我心爱的人找到**珍惜之眼** 
+愿我心爱的人找到珍惜之眼 
 
-愿你们找到一生的庇护
+愿你找到一生的庇护
 
-愿你们平安
+愿你平安
+
 
 
 ##故人
