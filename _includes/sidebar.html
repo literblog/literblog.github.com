@@ -4,7 +4,14 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
-  <img src="https://avatars3.githubusercontent.com/u/7981111?v=3&s=460"> 
+
+  {% if site.author_thumbnail && site.author_thumbnail != '' %}
+  <img
+    src="{{ site.author_thumbnail | prepend: site.baseurl | prepend: site.url }}"
+    alt="{{ site.title }}" />
+
+  {% endif %}
+  
   <div class="sidebar-item">
     <p>{{ site.description }}</p>
   </div>
