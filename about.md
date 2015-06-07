@@ -1,32 +1,16 @@
 ---
-layout: about
-title: About Me
-header: About Me
-group: navigation
+layout: page
+title: 关于
+permalink: /about/
+banner_image: heating_season.jpg
+banner_image_alt: About me
 ---
 
-##世界
-
-记录你看到的世界  the apple of your eyes 
+我和其他的五个我都很好
 
 
-诗篇里说 Keep me as the **apple of the eye**
+---
+
+{% include social.html %}
 
 
-Hide me under the shadow of thy wings
-
-
-愿我心爱的人找到**珍惜之眼** 
-
-
-愿你们找到一生的庇护
-
-
-愿你们平安
-
-
-
-
-##故人
-
-[闫老师](http://urbem.org/)
