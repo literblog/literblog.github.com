@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 世界
+title: About
 ---
 
 记录你看到的世界  the apple of your eyes 
