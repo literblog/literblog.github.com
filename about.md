@@ -1,8 +1,6 @@
 ---
-layout: about
-title: About Me
-header: About Me
-group: navigation
+layout: page
+title: About
 ---
 
 ##世界
