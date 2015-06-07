@@ -7,11 +7,11 @@
 
   {% if site.author_thumbnail && site.author_thumbnail != '' %}
   <img
-    src="{{ site.author_thumbnail | prepend: site.baseurl | prepend: site.url }}"
+    src="{{ site.author_thumbnail}}"
     alt="{{ site.title }}" />
 
   {% endif %}
-  
+
   <div class="sidebar-item">
     <p>{{ site.description }}</p>
   </div>

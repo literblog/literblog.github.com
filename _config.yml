@@ -11,7 +11,7 @@ description:         '如果你偶然记得关于桃花岛黄药师的传说，�
 url:                 http://blog.tuzhii.com
 baseurl:             'http://blog.tuzhii.com'
 paginate:            5
-author_thumbnail: "/assets/images/avatar.jpg" 
+author_thumbnail: "http://blog.tuzhii.com/assets/images/avatar.jpg" 
 
 # About/contact
 author:
