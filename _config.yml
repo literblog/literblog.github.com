@@ -21,3 +21,8 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+comments :
+    provider : duoshuo
+    duoshuo :
+          short_name : liter
