@@ -23,6 +23,6 @@ author:
 version:             1.0.0
 
 comments :
-    provider : duoshuo
+    provider : disqus
     duoshuo :
           short_name : liter
