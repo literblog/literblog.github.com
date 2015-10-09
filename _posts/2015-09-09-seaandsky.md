@@ -14,6 +14,3 @@ tags:
 
 人这一辈子还是要做些什么，不然对不起那些曾经信任你的人，还有年轻时骄傲的心。
 
-<br>
-
-![ball](/assets/images/qmusic.jpg)
