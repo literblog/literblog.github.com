@@ -6,7 +6,7 @@ permalink: /:categories/:year/:month/:day/:title
 # Setup
 title:               逸
 tagline:             '    When lotus lush'
-description:         '如果你偶然记起关于桃花岛黄药师的传说，记得划船来找我。<br> <br> 你往何处去，我在这儿等你。'
+description:         '兴来每独往，好景空自知'
 url:                 http://blog.fuzhii.com
 baseurl:             'http://blog.fuzhii.com'
 paginate:            5
