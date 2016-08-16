@@ -19,14 +19,13 @@ title: About
 
 喜欢做实事，开始找到自己的方向。希望以后的时间能跟随自己的内心，有能力实现自己所思所想，从容和亲人朋友分享所得所失，等到三十岁左右能真正做到「而立」。
 
-## Email
+» 联系方式
 
-ituzhi@163.com
+email: ituzhi@163.com
 
-## Wechat
+wechat: huangtuzhi
 
-huangtuzhi
 
-## Links
+» Links
 
 [闫老师](https://urbem.github.io)
