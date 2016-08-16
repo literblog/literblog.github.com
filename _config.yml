@@ -22,6 +22,6 @@ author:
 version:             1.0.0
 
 comments :
-    provider : disqus
+    provider : duoshuo
     duoshuo :
           short_name : liter
