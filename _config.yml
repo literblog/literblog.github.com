@@ -23,5 +23,3 @@ version:             1.0.0
 
 comments :
     provider : Disqus
-    duoshuo :
-          short_name : liter
