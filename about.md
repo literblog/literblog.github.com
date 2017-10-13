@@ -23,8 +23,6 @@ email: ituzhi@163.com
 
 wechat: huangtuzhi
 
-![](/assets/images/qrcode_for_mp.jpg)
-
 » Links
 
 [闫老师](https://urbem.github.io)
