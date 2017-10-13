@@ -23,7 +23,7 @@ email: ituzhi@163.com
 
 wechat: huangtuzhi
 
-![wechat](/assets/images/qrcode_for_mp.jpg)
+![](/assets/images/qrcode_for_mp.jpg)
 
 » Links
 
