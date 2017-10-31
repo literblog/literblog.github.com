@@ -7,18 +7,16 @@ layout: default
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
   
-  <!-- 网易云跟帖 -->
-<!-- <div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div>
+<div id="disqus_thread"></div>
 <script>
-var cloudTieConfig = {
-    url: document.location.href,
-    sourceId: "",
-    productKey: "9e4aafff0df04c578f1fa03a90808856",
-    target: "cloud-tie-wrapper"
-};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://liter.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
 </script>
-<script src="https://img1.cache.netease.com/f2e/tie/yun/sdk/loader.js"></script> -->                         
-  
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> 
 </div>
 
 <div class="related">
