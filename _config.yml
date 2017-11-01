@@ -5,8 +5,8 @@ permalink: /:categories/:year/:month/:day/:title
 
 # Setup
 title:               偶知好景
-tagline:             '    lotus lush'
-description:         '兴来每独往'
+tagline:             ''
+description:         '兴来每独往，好景空自知'
 url:                 http://blog.fuzhii.com
 baseurl:             'http://blog.fuzhii.com'
 paginate:            5
