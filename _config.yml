@@ -6,7 +6,7 @@ permalink: /:categories/:year/:month/:day/:title
 # Setup
 title:               兔之
 tagline:             ''
-description:         '工作读书，思考感悟，每有所得，欣然记之'
+description:         '每有所得，欣然记之'
 url:                 http://blog.fuzhii.com
 baseurl:             'http://blog.fuzhii.com'
 paginate:            5
