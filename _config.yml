@@ -4,7 +4,7 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 # Setup
-title:               兔之
+title:               逸
 tagline:             ''
 description:         '每有所得，欣然记之'
 url:                 http://blog.fuzhii.com
