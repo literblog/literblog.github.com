@@ -22,3 +22,7 @@ author:
 version:             1.0.0
 
 comments :
+
+# 插件
+plugins:
+  - jekyll-paginate
