@@ -7,15 +7,15 @@ permalink: /:categories/:year/:month/:day/:title
 title:               逸
 tagline:             ''
 description:         '每有所得，欣然记之'
-url:                 http://blog.fuzhii.com
-baseurl:             'http://blog.fuzhii.com'
+url:                 http://timenull.net
+baseurl:             'http://timenull.net'
 paginate:            5
 author_thumbnail: "http://blog.fuzhii.com/assets/images/avatar.jpg" 
 
 # About/contact
 author:
   name:              Huang Yi
-  url:               https://blog.fuzhii.com
+  url:               https://timenull.net
   email:             ituzhi@163.com
 
 # Custom vars
