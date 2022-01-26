@@ -7,8 +7,8 @@ permalink: /:categories/:year/:month/:day/:title
 title:               逸
 tagline:             ''
 description:         '每有所得，欣然记之'
-url:                 http://timenull.net
-baseurl:             'http://timenull.net'
+url:                 https://timenull.net
+baseurl:             'https://timenull.net'
 paginate:            5
 author_thumbnail: "http://blog.fuzhii.com/assets/images/avatar.jpg" 
 
