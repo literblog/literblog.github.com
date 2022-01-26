@@ -1,12 +1,12 @@
 ---
 layout: post
 category: Life
-title: 与 iPhone 维修技术
+title: 手机维修技术
 tagline:
 tags:
 ---
 
-iphone 11Pro Max
+2021 年 8 月份时 iphone 11Pro Max 在充了一晚上电后，移动信号无网络。
 
 ## 分析
 1、输入 *#06# 显示 IMEI：说明主板无问题
