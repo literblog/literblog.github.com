@@ -7,15 +7,15 @@ permalink: /:categories/:year/:month/:day/:title
 title:               逸
 tagline:             ''
 description:         '每有所得，欣然记之'
-url:                 https://timenull.net
-baseurl:             'https://timenull.net'
+url:                 https://literblog.github.io
+baseurl:             'https://literblog.github.io'
 paginate:            5
-author_thumbnail: "https://timenull.net/assets/images/avatar.jpg" 
+author_thumbnail: "https://literblog.github.io/assets/images/avatar.jpg" 
 
 # About/contact
 author:
   name:              Huang Yi
-  url:               https://timenull.net
+  url:               https://literblog.github.io
   email:             ituzhi@163.com
 
 # Custom vars
